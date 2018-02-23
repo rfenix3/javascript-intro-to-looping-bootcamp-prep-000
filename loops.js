@@ -4,7 +4,7 @@ function forLoop(array){
   }  
 }
 
-let array = [];
+let array = ["dog", "cat"];
 
 forLoop(array);
 
