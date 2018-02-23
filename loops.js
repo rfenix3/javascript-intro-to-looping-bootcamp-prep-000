@@ -7,3 +7,9 @@ function forLoop(array){
     }
   }  
 }
+
+let array = [];
+
+forLoop(array);
+
+console.log(array);
