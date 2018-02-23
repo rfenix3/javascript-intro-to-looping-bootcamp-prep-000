@@ -13,4 +13,8 @@ function whileLoop(number){
    return 'done';
 }
 
-whileLoop(5);
+function doWhileLoop(array) {
+  do {
+    
+  } while (maybeTrue());
+}
