@@ -13,3 +13,4 @@ function whileLoop(number){
    return 'done';
 }
 
+whileLoop(5);
